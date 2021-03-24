@@ -85,9 +85,8 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-label[for="new-task"] {
-  display: block;
-  margin: 0 0 20px;
+#new-task-block {
+  padding: 20px 0;
 }
 #new-task {
   width: 318px;
