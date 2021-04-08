@@ -18,9 +18,11 @@
   font-family: cursive;
 }
 @media (max-width: 768px) {
+
   .info {
     text-align: center;
   }
+
 }
 .main {
   display: block;
@@ -84,7 +86,7 @@
 }
 .new-task__field {
   width: 318px;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .new-task__btn:hover {
   color: #0fc57c;
@@ -109,11 +111,11 @@
   font-size: 18px;
   width: 226px;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task__rename {
   width: 226px;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .delete__image {
   height: 2em;
