@@ -15,7 +15,7 @@
   vertical-align: middle;
 }
 .info__read-more {
-  font-family: fantasy, cursive;
+  font-family: cursive;
 }
 @media (max-width: 768px) {
   .info {
